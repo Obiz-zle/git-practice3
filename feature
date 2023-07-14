@@ -1,1 +1,4 @@
-conflict 2
+
+ I choose: conflict 1
+ finish merge
+
